@@ -1,0 +1,16 @@
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\HomeSet7.csprojAssemblyReference.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\HomeSet7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\HomeSet7.AssemblyInfoInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\HomeSet7.AssemblyInfo.cs
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\HomeSet7.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\bin\Debug\net5.0\HomeSet7.exe
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\bin\Debug\net5.0\HomeSet7.deps.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\bin\Debug\net5.0\HomeSet7.runtimeconfig.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\bin\Debug\net5.0\HomeSet7.runtimeconfig.dev.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\bin\Debug\net5.0\HomeSet7.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\bin\Debug\net5.0\ref\HomeSet7.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\bin\Debug\net5.0\HomeSet7.pdb
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\HomeSet7.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\ref\HomeSet7.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\HomeSet7.pdb
+C:\Users\ABDUL MATEEN\Desktop\HomeSet7\obj\Debug\net5.0\HomeSet7.genruntimeconfig.cache

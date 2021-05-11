@@ -1,0 +1,16 @@
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\bin\Debug\net5.0\HomeSet14.exe
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\bin\Debug\net5.0\HomeSet14.deps.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\bin\Debug\net5.0\HomeSet14.runtimeconfig.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\bin\Debug\net5.0\HomeSet14.runtimeconfig.dev.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\bin\Debug\net5.0\HomeSet14.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\bin\Debug\net5.0\ref\HomeSet14.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\bin\Debug\net5.0\HomeSet14.pdb
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\HomeSet14.csprojAssemblyReference.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\HomeSet14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\HomeSet14.AssemblyInfoInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\HomeSet14.AssemblyInfo.cs
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\HomeSet14.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\HomeSet14.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\ref\HomeSet14.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\HomeSet14.pdb
+C:\Users\ABDUL MATEEN\Desktop\HomeSet14\obj\Debug\net5.0\HomeSet14.genruntimeconfig.cache

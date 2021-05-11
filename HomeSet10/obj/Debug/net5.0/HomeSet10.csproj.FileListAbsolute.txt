@@ -1,0 +1,16 @@
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\bin\Debug\net5.0\HomeSet10.exe
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\bin\Debug\net5.0\HomeSet10.deps.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\bin\Debug\net5.0\HomeSet10.runtimeconfig.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\bin\Debug\net5.0\HomeSet10.runtimeconfig.dev.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\bin\Debug\net5.0\HomeSet10.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\bin\Debug\net5.0\ref\HomeSet10.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\bin\Debug\net5.0\HomeSet10.pdb
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\HomeSet10.csprojAssemblyReference.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\HomeSet10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\HomeSet10.AssemblyInfoInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\HomeSet10.AssemblyInfo.cs
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\HomeSet10.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\HomeSet10.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\ref\HomeSet10.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\HomeSet10.pdb
+C:\Users\ABDUL MATEEN\Desktop\HomeSet10\obj\Debug\net5.0\HomeSet10.genruntimeconfig.cache

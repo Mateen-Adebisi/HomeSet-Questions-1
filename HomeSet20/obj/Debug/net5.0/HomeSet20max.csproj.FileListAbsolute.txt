@@ -1,0 +1,16 @@
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\bin\Debug\net5.0\HomeSet20max.exe
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\bin\Debug\net5.0\HomeSet20max.deps.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\bin\Debug\net5.0\HomeSet20max.runtimeconfig.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\bin\Debug\net5.0\HomeSet20max.runtimeconfig.dev.json
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\bin\Debug\net5.0\HomeSet20max.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\bin\Debug\net5.0\ref\HomeSet20max.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\bin\Debug\net5.0\HomeSet20max.pdb
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\HomeSet20max.csprojAssemblyReference.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\HomeSet20max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\HomeSet20max.AssemblyInfoInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\HomeSet20max.AssemblyInfo.cs
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\HomeSet20max.csproj.CoreCompileInputs.cache
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\HomeSet20max.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\ref\HomeSet20max.dll
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\HomeSet20max.pdb
+C:\Users\ABDUL MATEEN\Desktop\HomeSet20max\obj\Debug\net5.0\HomeSet20max.genruntimeconfig.cache
